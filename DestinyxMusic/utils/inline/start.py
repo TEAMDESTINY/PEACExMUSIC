@@ -30,8 +30,11 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_GROUP),
         ],
         [
-            # Yahan se Upstream Repo wala button hata diya hai
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
+        ],
+        # Yahan Upstream Repo ka button add kiya gaya hai
+        [
+            InlineKeyboardButton(text=_["S_B_7"], url=config.UPSTREAM_REPO),
         ],
     ]
     return buttons

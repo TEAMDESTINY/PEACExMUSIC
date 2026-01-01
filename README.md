@@ -28,7 +28,7 @@ Use API for reliability; switch to **custom cookies** if you prefer not to rely 
 
 ---
   
-[![Contact sparsh](https://img.shields.io/badge/DM-@ARYXFUCKS-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/ARYXFUCKS)  
+[![Contact sparsh](https://img.shields.io/badge/DM-@OYE_SPARSH-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/OYE_SPARSH)  
 
 ---
 
@@ -134,10 +134,10 @@ For a full list of commands, use `/help` in [telegram](https://t.me/DestinyXmusi
 Stay updated with the latest features and improvements to DestinyxMusicBot:
 
 <p align="center">
-  <a href="https://telegram.me/destinybots">
+  <a href="https://telegram.me/comfessi0n">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/destinybots">
+  <a href="https://telegram.me/comfessi0n">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
